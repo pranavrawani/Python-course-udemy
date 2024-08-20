@@ -15,3 +15,9 @@
 [17th](https://drive.google.com/drive/folders/1oVEpnRvSXG-FQkj15tCz9eAQ4y5SBP_K?usp=sharing)<br/>
 [18th](https://drive.google.com/drive/folders/1qWPWDyaSFXktjknuQaUOya38TMbI5onr?usp=sharing)<br/>
 [19th](https://drive.google.com/drive/folders/1mxnkVvpdlqAkgSQfcAZszf5mccQj1mVQ?usp=sharing)<br/>
+
+
+
+
+#JAVA Lectures
+[Click for java](https://drive.google.com/drive/folders/1J2j6D5Hkmrlnvzsc4slQRhe3yFxm-jV1?usp=sharing)
