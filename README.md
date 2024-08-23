@@ -7,4 +7,6 @@
 
 
 #JAVA Lectures
-[Click for java](https://drive.google.com/drive/folders/1J2j6D5Hkmrlnvzsc4slQRhe3yFxm-jV1?usp=sharing)
+[Click for java](https://drive.google.com/drive/folders/1J2j6D5Hkmrlnvzsc4slQRhe3yFxm-jV1?usp=sharing)<br/>
+[Java 2](https://drive.google.com/drive/folders/1lsfB9JEwghjCKsrCSHScVGIx-pimNwGN?usp=sharing)<br/>
+[Java3](https://drive.google.com/drive/folders/19i5jji3uwJ0bxWkhnNyYCj-9C6LykyuB?usp=sharing)
